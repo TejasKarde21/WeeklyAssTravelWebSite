@@ -201,7 +201,7 @@ footer{
 
 @media screen and (max-width:480px) {
      body{
-        background-color: aquamarine;
+    
      }
      .input{
         display: flex;
