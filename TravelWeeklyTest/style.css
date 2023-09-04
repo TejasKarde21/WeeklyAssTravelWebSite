@@ -200,9 +200,7 @@ footer{
 }
 
 @media screen and (max-width:480px) {
-     body{
     
-     }
      .input{
         display: flex;
         justify-content: space-between;
